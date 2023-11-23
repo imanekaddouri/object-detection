@@ -1,0 +1,1 @@
+devA fait un commit et le pousse sur le remote
